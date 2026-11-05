@@ -1,3 +1,8 @@
+# Data tmp files from data_raw folder
+data_raw/*.csv
+data_raw/*.xlsx
+.env
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
